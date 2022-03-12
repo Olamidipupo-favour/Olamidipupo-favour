@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 * Perform mind experiments
 * Play [Chess](https://lichess.org/@/dipo12) -even though I'm not such a good playerl.
 
-#Contact
+# Contact
 * Facebook [Olamidipupo Favour](https://facebook.com/olamidipupo.favour)
 * Twitter [Olamidipupo Favour](https://twitter.com/@dipo133)
 * Whatsapp [+2347049603393](https://wa.me/2347049603393)
