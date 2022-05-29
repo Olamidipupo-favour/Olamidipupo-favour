@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![CI](https://github.com/Olamidipupo-favour/trackitapp/actions/workflows/kivy_workflow.yml/badge.svg)](https://github.com/Olamidipupo-favour/trackitapp/actions/workflows/kivy_workflow.yml)
 # I'm Dipo and I code;
 * [Python](https://python.org)
 * [C++](https://isocpp.org)
