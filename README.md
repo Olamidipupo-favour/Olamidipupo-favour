@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-**Olamidipupo-favour/Olamidipupo-favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Olamidipupo-favour/Olamidipupo-favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Carde
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on open source and closed sourceProjects
