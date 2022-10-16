@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-<!--
+
 **Olamidipupo-favour/Olamidipupo-favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Carde
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on open source and closed sourceProjects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![CI](https://github.com/Olamidipupo-favour/trackitapp/actions/workflows/kivy_workflow.yml/badge.svg)](https://github.com/Olamidipupo-favour/trackitapp/actions/workflows/kivy_workflow.yml)
+- 💬 Ask me about Python,C++,JS
+- 📫 How to reach me: my email is visible innit
+- 😄 Pronouns: He/His 😂😂😂
+- ⚡ Fun fact: I'm not so fun 😂😂😂
 # I'm Dipo and I code;
 * [Python](https://python.org)
 * [C++](https://isocpp.org)
