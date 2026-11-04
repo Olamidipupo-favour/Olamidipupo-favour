@@ -10,7 +10,7 @@
 <p align="center"><strong>Backend engineer. Ships APIs that don't fall over.</strong></p>
 
 <p align="center">
-  Backend engineer in Ile-Ife, Nigeria. Python, Go and TypeScript, with FastAPI, Flask, Django, NestJS, Postgres, MongoDB, Redis, Docker and Kubernetes in the stack.<br>
+  Backend engineer at Autogon AI in Ile-Ife, Nigeria. Python, Go and TypeScript, with FastAPI, Flask, Django, NestJS, Postgres, MongoDB, Redis, Docker and Kubernetes in the stack.<br>
   I build APIs that hold their shape under load — 99.95% uptime, 2,500 concurrent users, queries 35% faster.<br>
   MBBS student at OAU. Open to remote backend roles and select freelance work.
 </p>
@@ -32,7 +32,7 @@
 ## CHAPTER 01 · NOW BUILDING
 
 <!-- BLOCK:now -->
-Shipping backend work, studying medicine, and taking on remote roles.
+Building backend systems at Autogon AI, studying medicine, and taking on select remote work.
 <!-- /BLOCK:now -->
 
 ## CHAPTER 02 · STACK

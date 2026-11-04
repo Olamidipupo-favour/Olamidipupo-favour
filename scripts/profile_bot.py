@@ -30,7 +30,7 @@ TOKEN = (
 )
 RSS_URL = "https://olamidipupo-favour.github.io/rss.xml"
 SANITY_URL = "https://5qubhndt.api.sanity.io/v2021-10-21/data/query/production"
-NOW_FALLBACK = "Shipping backend work, studying medicine, and taking on remote roles."
+NOW_FALLBACK = "Building backend systems at Autogon AI, studying medicine, and taking on select remote work."
 ACCENT = "#22C55E"
 
 # GitHub's language detection picks up build files and mislabels a few repos.
