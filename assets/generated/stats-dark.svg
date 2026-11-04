@@ -8,15 +8,15 @@
 <text x="30" y="78" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#E9EFE8">JavaScript</text>
 <text x="212" y="78" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#9CA3AF">50%</text>
 <rect x="30" y="83" width="182" height="4" rx="2" fill="#233026"/>
-<rect x="30" y="83" width="91.9" height="4" rx="2" fill="#22C55E"/>
+<rect x="30" y="83" width="91.6" height="4" rx="2" fill="#22C55E"/>
 <text x="30" y="114" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#E9EFE8">TypeScript</text>
 <text x="212" y="114" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#9CA3AF">27%</text>
 <rect x="30" y="119" width="182" height="4" rx="2" fill="#233026"/>
-<rect x="30" y="119" width="49.3" height="4" rx="2" fill="#22C55E"/>
+<rect x="30" y="119" width="49.1" height="4" rx="2" fill="#22C55E"/>
 <text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#E9EFE8">Python</text>
 <text x="212" y="150" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#9CA3AF">18%</text>
 <rect x="30" y="155" width="182" height="4" rx="2" fill="#233026"/>
-<rect x="30" y="155" width="32.0" height="4" rx="2" fill="#22C55E"/>
+<rect x="30" y="155" width="32.4" height="4" rx="2" fill="#22C55E"/>
 <text x="30" y="186" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#E9EFE8">Astro</text>
 <text x="212" y="186" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#9CA3AF">2%</text>
 <rect x="30" y="191" width="182" height="4" rx="2" fill="#233026"/>
@@ -28,10 +28,10 @@
 <rect x="242" y="16" width="210" height="252" rx="6" fill="#111711" stroke="#233026"/>
 <text x="256" y="42" font-family="'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="1.6" fill="#22C55E">COMMITS</text>
 <line x1="256" y1="54" x2="438" y2="54" stroke="#233026"/>
-<text x="256" y="124" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#E9EFE8">121</text>
+<text x="256" y="124" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#E9EFE8">122</text>
 <text x="256" y="146" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#9CA3AF">public commits · 365 days</text>
 <line x1="256" y1="164" x2="438" y2="164" stroke="#233026"/>
-<text x="256" y="190" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#E9EFE8">2,209 total contributions</text>
+<text x="256" y="190" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#E9EFE8">2,211 total contributions</text>
 <text x="256" y="208" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#9CA3AF">public and private</text>
 <text x="256" y="238" font-family="'Courier New', monospace" font-size="9" fill="#9CA3AF">LAST 365 DAYS</text>
 <rect x="468" y="16" width="210" height="252" rx="6" fill="#111711" stroke="#233026"/>
