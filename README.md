@@ -50,7 +50,7 @@ Building backend systems at Autogon AI, studying medicine, and taking on select 
 
 ## CHAPTER 03 · SELECTED WORK
 
-**[studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend)** — Flask API for a study app: JWT auth, notes, folders, quizzes, summaries and uploads.  
+**[studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend)** — Flask API for a study app: JWT auth, notes, folders, quizzes and summaries.  
 `Python` `Flask` `PostgreSQL` `Redis` `Docker`
 
 **[studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy)** — The Next.js client: auth, subjects, notes, quizzes and a study chat.  
@@ -62,7 +62,7 @@ Building backend systems at Autogon AI, studying medicine, and taking on select 
 **[Givsimple-Info](https://github.com/Olamidipupo-favour/Givsimple-Info)** — Turns an NFC tap into a dynamic payment redirect, with an admin console and an audit trail.  
 `Flask` `PostgreSQL` `Redis` `Docker`
 
-**[alertMFB-RBAC](https://github.com/Olamidipupo-favour/alertMFB-RBAC)** — NestJS and Prisma RBAC service: JWT auth, role assignment, Swagger docs and e2e tests.  
+**[alertMFB-RBAC](https://github.com/Olamidipupo-favour/alertMFB-RBAC)** — NestJS and Prisma RBAC service: JWT auth, role assignment and Swagger docs.  
 `NestJS` `Prisma` `TypeScript`
 
 **[dido-dev](https://github.com/Olamidipupo-favour/dido-dev)** — A web3 donation platform: Solidity contracts, a subgraph and a Flask/Mongo backend.  
