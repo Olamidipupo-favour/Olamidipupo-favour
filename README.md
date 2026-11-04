@@ -115,11 +115,11 @@ _No notes published yet. The feed is live at [rss.xml](https://olamidipupo-favou
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
+- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — open-sourced · 31 Dec
 - [Olamidipupo-favour/Olamidipupo-favour](https://github.com/Olamidipupo-favour/Olamidipupo-favour) — pushed · 03 Nov
 - [Olamidipupo-favour/spotifyApi-nest](https://github.com/Olamidipupo-favour/spotifyApi-nest) — pushed · 31 Oct
 - [Olamidipupo-favour/ponytail](https://github.com/Olamidipupo-favour/ponytail) — pushed · 31 Oct
 - [MuffinDdev001/church-meembership](https://github.com/MuffinDdev001/church-meembership) — pushed · 31 Oct
-- [Akinlua/1xrpox](https://github.com/Akinlua/1xrpox) — pushed · 31 Oct
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/FPFg0"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1920." width="300"></a>
+<a href="https://lichess.org/training/FPFg0"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1954." width="300"></a>
 
-Daily puzzle · rating 1920 · [Play on Lichess →](https://lichess.org/training/FPFg0)
+Daily puzzle · rating 1954 · [Play on Lichess →](https://lichess.org/training/FPFg0)
 <!-- /BLOCK:chess -->
 
 <p align="center">
