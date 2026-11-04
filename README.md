@@ -32,7 +32,7 @@
 ## CHAPTER 01 · NOW BUILDING
 
 <!-- BLOCK:now -->
-Building backend systems at Autogon AI, studying medicine, and taking on select remote work.
+I'm currently building CompanyOs, a workspace for companies with both AI agent , and human employees.
 <!-- /BLOCK:now -->
 
 ## CHAPTER 02 · STACK
@@ -115,11 +115,11 @@ _No notes published yet. The feed is live at [rss.xml](https://olamidipupo-favou
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — open-sourced · 31 Dec
-- [Olamidipupo-favour/Olamidipupo-favour](https://github.com/Olamidipupo-favour/Olamidipupo-favour) — pushed · 03 Nov
-- [Olamidipupo-favour/spotifyApi-nest](https://github.com/Olamidipupo-favour/spotifyApi-nest) — pushed · 31 Oct
-- [Olamidipupo-favour/ponytail](https://github.com/Olamidipupo-favour/ponytail) — pushed · 31 Oct
-- [MuffinDdev001/church-meembership](https://github.com/MuffinDdev001/church-meembership) — pushed · 31 Oct
+- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — pushed · 04 Nov
+- [Olamidipupo-favour/alertMFB-RBAC](https://github.com/Olamidipupo-favour/alertMFB-RBAC) — pushed · 04 Nov
+- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 04 Nov
+- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 04 Nov
+- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — released v0.1.0 in · 04 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/FPFg0"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1975." width="300"></a>
+<a href="https://lichess.org/training/FPFg0"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1845." width="300"></a>
 
-Daily puzzle · rating 1975 · [Play on Lichess →](https://lichess.org/training/FPFg0)
+Daily puzzle · rating 1845 · [Play on Lichess →](https://lichess.org/training/FPFg0)
 <!-- /BLOCK:chess -->
 
 <p align="center">
