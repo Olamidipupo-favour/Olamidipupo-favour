@@ -1,0 +1,53 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+      - "assets/generated/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # PROFILE_TOKEN is a read-only token (classic: read:user; fine-grained:
+      # read access to profile + public repos) so private contribution counts
+      # are visible. Without it the script falls back to GITHUB_TOKEN and the
+      # private counts are simply zero. Never printed or written to a file.
+      - name: Refresh blocks
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: Olamidipupo-favour
+        run: python scripts/profile_bot.py
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          if [ -d assets/generated ]; then git add assets/generated; fi
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(profile): refresh auto blocks [skip ci]"
+          git push
