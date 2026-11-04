@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dipo — backend engineer</title>
+  <desc id="desc">A manga-style mascot beside the words DIPO, BACKEND ENGINEER, and NO CURSED ENERGY.</desc>
+  <defs>
+    <pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.1" fill="#22C55E" opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#F7F8F3"/>
+  <rect x="600" width="600" height="300" fill="url(#dots)" opacity="0.35"/>
+  <g stroke="#22C55E" stroke-width="2" opacity="0.22">
+    <line x1="720" y1="0" x2="620" y2="300"/>
+    <line x1="760" y1="0" x2="660" y2="300"/>
+    <line x1="800" y1="0" x2="700" y2="300"/>
+    <line x1="1130" y1="0" x2="1030" y2="300"/>
+    <line x1="1170" y1="0" x2="1070" y2="300"/>
+  </g>
+
+  <g fill="#101410">
+    <path d="M828 300 C 838 238, 892 210, 960 210 C 1028 210, 1082 238, 1092 300 Z"/>
+    <rect x="938" y="178" width="44" height="46" rx="10"/>
+    <ellipse cx="960" cy="138" rx="66" ry="74"/>
+    <circle cx="894" cy="148" r="13"/>
+    <path d="M890 100 L 872 44 L 908 72 L 922 24 L 944 70 L 962 18 L 978 70 L 1002 30 L 1014 80 L 1042 54 L 1030 112 Z"/>
+  </g>
+
+  <ellipse cx="960" cy="148" rx="52" ry="58" fill="#F7F8F3"/>
+  <path d="M908 128 Q 930 118 948 128" stroke="#101410" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M976 128 Q 994 118 1012 128" stroke="#101410" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M914 150 L 946 156 L 916 162 Z" fill="#22C55E"/>
+  <path d="M1006 150 L 974 156 L 1004 162 Z" fill="#22C55E"/>
+  <path d="M946 186 Q 960 194 974 186" stroke="#101410" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M938 218 L 960 248 L 982 218" fill="#22C55E"/>
+
+  <g fill="#101410">
+    <text x="90" y="150" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" letter-spacing="2">DIPO</text>
+    <text x="92" y="204" font-family="'Courier New', monospace" font-size="19" font-weight="700" letter-spacing="5" fill="#4B5563">BACKEND ENGINEER</text>
+  </g>
+  <rect x="92" y="166" width="132" height="7" fill="#22C55E"/>
+  <text x="92" y="240" font-family="'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="3" fill="#16A34A">NO CURSED ENERGY.</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 34" width="1200" height="34" aria-hidden="true">
+  <defs>
+    <pattern id="halftone" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="2.2" fill="#22C55E"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="34" fill="url(#halftone)" opacity="0.35"/>
+</svg>
