@@ -10,7 +10,7 @@
 <p align="center"><strong>Backend engineer. Ships APIs that don't fall over.</strong></p>
 
 <p align="center">
-  Backend engineer in Ile-Ife, Nigeria. Python, Go and Node/NestJS, with Postgres, Docker and Kubernetes underneath.<br>
+  Backend engineer in Ile-Ife, Nigeria. Python, Go and TypeScript, with FastAPI, Flask, Django, NestJS, Postgres, MongoDB, Redis, Docker and Kubernetes in the stack.<br>
   I build APIs that hold their shape under load — 99.95% uptime, 2,500 concurrent users, queries 35% faster.<br>
   MBBS student at OAU. Open to remote backend roles and select freelance work.
 </p>
@@ -37,10 +37,12 @@ Shipping backend work, studying medicine, and taking on remote roles.
 
 ## CHAPTER 02 · STACK
 
-| | | | |
-|:--|:--|:--|:--|
-| <img src="assets/icons/python.svg" alt="Python" width="26" height="26"> **Python** | <img src="assets/icons/go.svg" alt="Go" width="26" height="26"> **Go** | <img src="assets/icons/node.svg" alt="Node.js" width="26" height="26"> **Node** | <img src="assets/icons/nest.svg" alt="NestJS" width="26" height="26"> **NestJS** |
-| <img src="assets/icons/postgres.svg" alt="PostgreSQL" width="26" height="26"> **Postgres** | <img src="assets/icons/redis.svg" alt="Redis" width="26" height="26"> **Redis** | <img src="assets/icons/docker.svg" alt="Docker" width="26" height="26"> **Docker** | <img src="assets/icons/kubernetes.svg" alt="Kubernetes" width="26" height="26"> **Kubernetes** |
+| | | | | |
+|:--|:--|:--|:--|:--|
+| <img src="assets/icons/python.svg" alt="Python" width="26" height="26"> **Python** | <img src="assets/icons/go.svg" alt="Go" width="26" height="26"> **Go** | <img src="assets/icons/typescript.svg" alt="TypeScript" width="26" height="26"> **TypeScript** | <img src="assets/icons/javascript.svg" alt="JavaScript" width="26" height="26"> **JavaScript** | <img src="assets/icons/solidity.svg" alt="Solidity" width="26" height="26"> **Solidity** |
+| <img src="assets/icons/fastapi.svg" alt="FastAPI" width="26" height="26"> **FastAPI** | <img src="assets/icons/flask.svg" alt="Flask" width="26" height="26"> **Flask** | <img src="assets/icons/django.svg" alt="Django" width="26" height="26"> **Django** | <img src="assets/icons/nestjs.svg" alt="NestJS" width="26" height="26"> **NestJS** | <img src="assets/icons/nodedotjs.svg" alt="Node.js" width="26" height="26"> **Node.js** |
+| <img src="assets/icons/nextdotjs.svg" alt="Next.js" width="26" height="26"> **Next.js** | <img src="assets/icons/react.svg" alt="React" width="26" height="26"> **React** | <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="26" height="26"> **PostgreSQL** | <img src="assets/icons/mongodb.svg" alt="MongoDB" width="26" height="26"> **MongoDB** | <img src="assets/icons/supabase.svg" alt="Supabase" width="26" height="26"> **Supabase** |
+| <img src="assets/icons/redis.svg" alt="Redis" width="26" height="26"> **Redis** | <img src="assets/icons/docker.svg" alt="Docker" width="26" height="26"> **Docker** | <img src="assets/icons/kubernetes.svg" alt="Kubernetes" width="26" height="26"> **Kubernetes** | <img src="assets/icons/githubactions.svg" alt="GitHub Actions" width="26" height="26"> **GitHub Actions** | <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="26" height="26"> **Tailwind CSS** |
 
 <p align="center">
   <img src="assets/dividers/halftone.svg" alt="" width="100%">
@@ -83,7 +85,7 @@ Shipping backend work, studying medicine, and taking on remote roles.
 | Query response time | **down 35%** |
 | Peak-load downtime | **cut 50%** with Kubernetes autoscaling |
 | Active users on Tekcify software | **10,000+** |
-| Hackathon wins | **2** — Buidlcon 2.0, Hack n' Heights |
+| Hackathon wins | **4+** |
 
 <!-- BLOCK:stats -->
 <p align="center">
