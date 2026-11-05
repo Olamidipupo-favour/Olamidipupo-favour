@@ -115,11 +115,11 @@ _No notes published yet. The feed is live at [rss.xml](https://olamidipupo-favou
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — pushed · 04 Nov
-- [Olamidipupo-favour/alertMFB-RBAC](https://github.com/Olamidipupo-favour/alertMFB-RBAC) — pushed · 04 Nov
+- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 04 Nov
+- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — created a branch in · 04 Nov
+- [Olamidipupo-favour/dido-dev](https://github.com/Olamidipupo-favour/dido-dev) — pushed · 04 Nov
 - [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 04 Nov
-- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 04 Nov
-- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — released v0.1.0 in · 04 Nov
+- [Olamidipupo-favour/Olamidipupo-favour](https://github.com/Olamidipupo-favour/Olamidipupo-favour) — pushed · 04 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/FPFg0"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1845." width="300"></a>
+<a href="https://lichess.org/training/zHnaR"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 2009." width="300"></a>
 
-Daily puzzle · rating 1845 · [Play on Lichess →](https://lichess.org/training/FPFg0)
+Daily puzzle · rating 2009 · [Play on Lichess →](https://lichess.org/training/zHnaR)
 <!-- /BLOCK:chess -->
 
 <p align="center">
