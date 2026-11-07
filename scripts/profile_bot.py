@@ -6,6 +6,7 @@ daily puzzle and the public Sanity dataset. Every source is optional: if one
 fails, the existing block is left alone.
 """
 
+import utils.session
 import json
 import os
 import re

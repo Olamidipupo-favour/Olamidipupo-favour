@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
+- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — created a branch in · 06 Nov
 - [Olamidipupo-favour/CSS-SHII](https://github.com/Olamidipupo-favour/CSS-SHII) — pushed · 05 Nov
 - [Olamidipupo-favour/argon](https://github.com/Olamidipupo-favour/argon) — pushed · 05 Nov
 - [Olamidipupo-favour/buzz](https://github.com/Olamidipupo-favour/buzz) — pushed · 05 Nov
 - [Olamidipupo-favour/Backend-Roadmap-2024](https://github.com/Olamidipupo-favour/Backend-Roadmap-2024) — pushed · 05 Nov
-- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 05 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/PL5HE"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 2027." width="300"></a>
+<a href="https://lichess.org/training/PL5HE"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1797." width="300"></a>
 
-Daily puzzle · rating 2027 · [Play on Lichess →](https://lichess.org/training/PL5HE)
+Daily puzzle · rating 1797 · [Play on Lichess →](https://lichess.org/training/PL5HE)
 <!-- /BLOCK:chess -->
 
 <p align="center">
