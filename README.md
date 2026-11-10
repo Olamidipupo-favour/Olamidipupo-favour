@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
+- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — pushed · 10 Nov
+- [chidubemokeke/Social-App\_The-Graph\_NextJS](https://github.com/chidubemokeke/Social-App_The-Graph_NextJS) — pushed · 10 Nov
 - [Akinlua/1xrpox](https://github.com/Akinlua/1xrpox) — pushed · 10 Nov
-- [Olamidipupo-favour/argon](https://github.com/Olamidipupo-favour/argon) — pushed · 07 Nov
-- [Akinlua/1xrpox](https://github.com/Akinlua/1xrpox) — pushed · 07 Nov
-- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 07 Nov
-- [Olamidipupo-favour/lxd](https://github.com/Olamidipupo-favour/lxd) — pushed · 07 Nov
+- [Olamidipupo-favour/ponytail](https://github.com/Olamidipupo-favour/ponytail) — pushed · 10 Nov
+- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 10 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/f3CVY"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 1931." width="300"></a>
+<a href="https://lichess.org/training/BngAa"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 1919." width="300"></a>
 
-Daily puzzle · rating 1931 · [Play on Lichess →](https://lichess.org/training/f3CVY)
+Daily puzzle · rating 1919 · [Play on Lichess →](https://lichess.org/training/BngAa)
 <!-- /BLOCK:chess -->
 
 <p align="center">
