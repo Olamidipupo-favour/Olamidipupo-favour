@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/BngAa"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 2015." width="300"></a>
+<a href="https://lichess.org/training/BngAa"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 2012." width="300"></a>
 
-Daily puzzle · rating 2015 · [Play on Lichess →](https://lichess.org/training/BngAa)
+Daily puzzle · rating 2012 · [Play on Lichess →](https://lichess.org/training/BngAa)
 <!-- /BLOCK:chess -->
 
 <p align="center">
