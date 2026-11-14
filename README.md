@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/u3zfD"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1891." width="300"></a>
+<a href="https://lichess.org/training/u3zfD"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1772." width="300"></a>
 
-Daily puzzle · rating 1891 · [Play on Lichess →](https://lichess.org/training/u3zfD)
+Daily puzzle · rating 1772 · [Play on Lichess →](https://lichess.org/training/u3zfD)
 <!-- /BLOCK:chess -->
 
 <p align="center">
