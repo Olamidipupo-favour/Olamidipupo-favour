@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 10 Nov
-- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — pushed · 10 Nov
-- [Olamidipupo-favour/node-ts-boilerplate](https://github.com/Olamidipupo-favour/node-ts-boilerplate) — pushed · 10 Nov
-- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 10 Nov
-- [Olamidipupo-favour/spotifyApi-nest](https://github.com/Olamidipupo-favour/spotifyApi-nest) — pushed · 10 Nov
+- [Olamidipupo-favour/Backend-Roadmap-2024](https://github.com/Olamidipupo-favour/Backend-Roadmap-2024) — pushed · 16 Nov
+- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 16 Nov
+- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 16 Nov
+- [Olamidipupo-favour/tic-test](https://github.com/Olamidipupo-favour/tic-test) — pushed · 16 Nov
+- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 16 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/Lw4qG"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 1897." width="300"></a>
+<a href="https://lichess.org/training/etYYx"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1892." width="300"></a>
 
-Daily puzzle · rating 1897 · [Play on Lichess →](https://lichess.org/training/Lw4qG)
+Daily puzzle · rating 1892 · [Play on Lichess →](https://lichess.org/training/etYYx)
 <!-- /BLOCK:chess -->
 
 <p align="center">
