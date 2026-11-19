@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 16 Nov
-- [Olamidipupo-favour/ponytail](https://github.com/Olamidipupo-favour/ponytail) — pushed · 16 Nov
-- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 16 Nov
-- [Olamidipupo-favour/tic-test](https://github.com/Olamidipupo-favour/tic-test) — pushed · 16 Nov
-- [Olamidipupo-favour/system-prompts-and-models-of-ai-tools](https://github.com/Olamidipupo-favour/system-prompts-and-models-of-ai-tools) — pushed · 16 Nov
+- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 18 Nov
+- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — pushed · 18 Nov
+- [Olamidipupo-favour/lxd](https://github.com/Olamidipupo-favour/lxd) — pushed · 18 Nov
+- [Olamidipupo-favour/incourse-cal](https://github.com/Olamidipupo-favour/incourse-cal) — pushed · 18 Nov
+- [Olamidipupo-favour/alertMFB-RBAC](https://github.com/Olamidipupo-favour/alertMFB-RBAC) — pushed · 18 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/kxyRP"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 1910." width="300"></a>
+<a href="https://lichess.org/training/kxyRP"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. Black to move. Rating 1864." width="300"></a>
 
-Daily puzzle · rating 1910 · [Play on Lichess →](https://lichess.org/training/kxyRP)
+Daily puzzle · rating 1864 · [Play on Lichess →](https://lichess.org/training/kxyRP)
 <!-- /BLOCK:chess -->
 
 <p align="center">
