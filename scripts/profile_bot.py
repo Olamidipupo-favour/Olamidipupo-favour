@@ -6,6 +6,8 @@ daily puzzle and the public Sanity dataset. Every source is optional: if one
 fails, the existing block is left alone.
 """
 
+import utils.net
+import utils.clients
 import utils.http_session
 import utils.transport
 import utils.session
