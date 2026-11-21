@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [PraiseKeyz/SCMS](https://github.com/PraiseKeyz/SCMS) — pushed · 18 Nov
-- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 18 Nov
-- [Olamidipupo-favour/system-prompts-and-models-of-ai-tools](https://github.com/Olamidipupo-favour/system-prompts-and-models-of-ai-tools) — pushed · 18 Nov
-- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 18 Nov
-- [Olamidipupo-favour/ponytail](https://github.com/Olamidipupo-favour/ponytail) — pushed · 18 Nov
+- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 21 Nov
+- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 21 Nov
+- [Olamidipupo-favour/Humaein\_task\_3](https://github.com/Olamidipupo-favour/Humaein_task_3) — pushed · 21 Nov
+- [Olamidipupo-favour/Givsimple-Info](https://github.com/Olamidipupo-favour/Givsimple-Info) — pushed · 21 Nov
+- [Olamidipupo-favour/alertMFB-RBAC](https://github.com/Olamidipupo-favour/alertMFB-RBAC) — pushed · 21 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/GjqO9"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1817." width="300"></a>
+<a href="https://lichess.org/training/GjqO9"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1733." width="300"></a>
 
-Daily puzzle · rating 1817 · [Play on Lichess →](https://lichess.org/training/GjqO9)
+Daily puzzle · rating 1733 · [Play on Lichess →](https://lichess.org/training/GjqO9)
 <!-- /BLOCK:chess -->
 
 <p align="center">
