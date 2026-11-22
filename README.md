@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [PraiseKeyz/SCMS](https://github.com/PraiseKeyz/SCMS) — pushed · 20 Nov
-- [Olamidipupo-favour/studyBuddyBackend](https://github.com/Olamidipupo-favour/studyBuddyBackend) — pushed · 20 Nov
-- [Olamidipupo-favour/rust-tutorials](https://github.com/Olamidipupo-favour/rust-tutorials) — pushed · 20 Nov
-- [Olamidipupo-favour/hands-on-react](https://github.com/Olamidipupo-favour/hands-on-react) — pushed · 20 Nov
-- [Olamidipupo-favour/Djazztro](https://github.com/Olamidipupo-favour/Djazztro) — pushed · 20 Nov
+- [Olamidipupo-favour/tic-test](https://github.com/Olamidipupo-favour/tic-test) — pushed · 20 Nov
+- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 20 Nov
+- [Olamidipupo-favour/system-prompts-and-models-of-ai-tools](https://github.com/Olamidipupo-favour/system-prompts-and-models-of-ai-tools) — pushed · 20 Nov
+- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 20 Nov
+- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 20 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/xrteQ"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1994." width="300"></a>
+<a href="https://lichess.org/training/xrteQ"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1972." width="300"></a>
 
-Daily puzzle · rating 1994 · [Play on Lichess →](https://lichess.org/training/xrteQ)
+Daily puzzle · rating 1972 · [Play on Lichess →](https://lichess.org/training/xrteQ)
 <!-- /BLOCK:chess -->
 
 <p align="center">
