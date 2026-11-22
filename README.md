@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [Olamidipupo-favour/tic-test](https://github.com/Olamidipupo-favour/tic-test) — pushed · 20 Nov
-- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 20 Nov
-- [Olamidipupo-favour/system-prompts-and-models-of-ai-tools](https://github.com/Olamidipupo-favour/system-prompts-and-models-of-ai-tools) — pushed · 20 Nov
-- [Olamidipupo-favour/studyBuddy](https://github.com/Olamidipupo-favour/studyBuddy) — pushed · 20 Nov
-- [Olamidipupo-favour/sentiniel](https://github.com/Olamidipupo-favour/sentiniel) — pushed · 20 Nov
+- [Olamidipupo-favour/iron-empire](https://github.com/Olamidipupo-favour/iron-empire) — pushed · 21 Nov
+- [Olamidipupo-favour/Backend-Roadmap-2024](https://github.com/Olamidipupo-favour/Backend-Roadmap-2024) — pushed · 21 Nov
+- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 21 Nov
+- [Olamidipupo-favour/spotifyApi-nest](https://github.com/Olamidipupo-favour/spotifyApi-nest) — pushed · 21 Nov
+- [Olamidipupo-favour/MetaTrader5-Docker](https://github.com/Olamidipupo-favour/MetaTrader5-Docker) — pushed · 21 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/xrteQ"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1972." width="300"></a>
+<a href="https://lichess.org/training/IxupU"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 2098." width="300"></a>
 
-Daily puzzle · rating 1972 · [Play on Lichess →](https://lichess.org/training/xrteQ)
+Daily puzzle · rating 2098 · [Play on Lichess →](https://lichess.org/training/IxupU)
 <!-- /BLOCK:chess -->
 
 <p align="center">
