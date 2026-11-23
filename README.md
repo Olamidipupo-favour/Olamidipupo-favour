@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
-- [Olamidipupo-favour/iron-empire](https://github.com/Olamidipupo-favour/iron-empire) — pushed · 21 Nov
-- [Olamidipupo-favour/Backend-Roadmap-2024](https://github.com/Olamidipupo-favour/Backend-Roadmap-2024) — pushed · 21 Nov
-- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 21 Nov
-- [Olamidipupo-favour/spotifyApi-nest](https://github.com/Olamidipupo-favour/spotifyApi-nest) — pushed · 21 Nov
-- [Olamidipupo-favour/MetaTrader5-Docker](https://github.com/Olamidipupo-favour/MetaTrader5-Docker) — pushed · 21 Nov
+- [Olamidipupo-favour/thesebasterdshaven\_tpaidourmoney](https://github.com/Olamidipupo-favour/thesebasterdshaven_tpaidourmoney) — pushed · 20 Nov
+- [Olamidipupo-favour/iron-empire](https://github.com/Olamidipupo-favour/iron-empire) — pushed · 20 Nov
+- [Olamidipupo-favour/incourse-cal](https://github.com/Olamidipupo-favour/incourse-cal) — pushed · 20 Nov
+- [Olamidipupo-favour/Git-Forge](https://github.com/Olamidipupo-favour/Git-Forge) — pushed · 20 Nov
+- [Olamidipupo-favour/dido-dev](https://github.com/Olamidipupo-favour/dido-dev) — pushed · 20 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/IxupU"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 2098." width="300"></a>
+<a href="https://lichess.org/training/IxupU"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 2089." width="300"></a>
 
-Daily puzzle · rating 2098 · [Play on Lichess →](https://lichess.org/training/IxupU)
+Daily puzzle · rating 2089 · [Play on Lichess →](https://lichess.org/training/IxupU)
 <!-- /BLOCK:chess -->
 
 <p align="center">
