@@ -115,11 +115,11 @@ I'm currently building CompanyOs, a workspace for companies with both AI agent ,
 ## CHAPTER 06 · RECENT ACTIVITY
 
 <!-- BLOCK:activity -->
+- [Oreva12/Telegram\_Utility\_Bot](https://github.com/Oreva12/Telegram_Utility_Bot) — pushed · 23 Nov
+- [CODECUBE-001/litecss](https://github.com/CODECUBE-001/litecss) — pushed · 23 Nov
 - [Maxima24/synthSentry](https://github.com/Maxima24/synthSentry) — pushed · 23 Nov
 - [PraiseKeyz/SCMS](https://github.com/PraiseKeyz/SCMS) — pushed · 21 Nov
 - [Olamidipupo-favour/system-prompts-and-models-of-ai-tools](https://github.com/Olamidipupo-favour/system-prompts-and-models-of-ai-tools) — pushed · 21 Nov
-- [Olamidipupo-favour/rcfoau](https://github.com/Olamidipupo-favour/rcfoau) — pushed · 21 Nov
-- [Olamidipupo-favour/Olamidipupo-favour.github.io](https://github.com/Olamidipupo-favour/Olamidipupo-favour.github.io) — pushed · 21 Nov
 <!-- /BLOCK:activity -->
 
 <p align="center">
@@ -133,9 +133,9 @@ Chess, violin and maths. I play all three badly enough to keep enjoying them.
 Also: sciences, finance, fitness, anime and manga.
 
 <!-- BLOCK:chess -->
-<a href="https://lichess.org/training/LvbY6"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 1913." width="300"></a>
+<a href="https://lichess.org/training/LvbY6"><img src="assets/generated/chess.svg" alt="Chess board for the Lichess daily puzzle. White to move. Rating 2003." width="300"></a>
 
-Daily puzzle · rating 1913 · [Play on Lichess →](https://lichess.org/training/LvbY6)
+Daily puzzle · rating 2003 · [Play on Lichess →](https://lichess.org/training/LvbY6)
 <!-- /BLOCK:chess -->
 
 <p align="center">
